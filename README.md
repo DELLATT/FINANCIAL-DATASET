@@ -1,5 +1,6 @@
                                            FINANCIAL DATASET DASHBOARD
 The financial Dashboards project aimed to provide comprehensive insights into  sales performance through interactive and visually appealing Power BI-developed dashboards. The project focused on analyzing and monitoring key metrics such as profit, order volume, manufacturing cost,cogs by different segments and sales trends. By leveraging data from the finance platform, the dashboards enabled stakeholders to make data-driven decisions, identify growth opportunities, and track the effectiveness of marketing campaigns.
+
 Key Insights
 Revenue Trends:
 Steady Growth: The revenue has shown steady growth over the past few years, indicating a positive business trajectory.
